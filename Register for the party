@@ -1,0 +1,8 @@
+/* You received an invitation to an amazing party. 
+Now you need to write an insert statement to add yourself to the table of participants.
+
+ */
+
+INSERT into participants values ('usha', 39, True);
+
+SELECT * FROM participants;
